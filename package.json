@@ -1,0 +1,20 @@
+{
+  "name": "hexlet-js",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "Repository for the \"Setting Up the Environment\" online course",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yrpol/hexlet-js.git"
+  },
+  "author": "Yurii Polishchuk",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yrpol/hexlet-js/issues"
+  },
+  "homepage": "https://github.com/yrpol/hexlet-js#readme"
+}
